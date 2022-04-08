@@ -1,0 +1,12 @@
+Thymleaf Notes :
+	-> if you have given a page name index.html then it will automatically load that page.
+
+Lombok :
+	 -> Project Lombok is a Java library tool that generates code for minimizing boilerplate code. 
+	 	The library replaces boilerplate code with easy-to-use annotations.
+
+boilerplate : 
+	 ->	boilerplate code are sections of code that are repeated in multiple places with little to no variation.
+
+	
+dto         (data transfer object)
